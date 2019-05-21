@@ -1,3 +1,3 @@
 http://www.algorithmdog.com/multi-agent-rl   mas
 http://rbr.cs.umass.edu/camato/decpomdp/  The Dec-POMDP Page
-POMDPs for Dummies POMDPs for Dummies
+http://cs.brown.edu/research/ai/pomdp/tutorial/index.html  POMDPs for Dummies
